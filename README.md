@@ -1,3 +1,3 @@
 # Netology 1.4
 
-Openweather API 
+Simple service for whether forecast that uses Openweather API.
